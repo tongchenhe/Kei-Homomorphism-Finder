@@ -6,11 +6,11 @@ To view the results we generated, go to kei_results.
 
 ## Reference: 
 <a id="1">[1]</a> 
-Paul Villanueva. 
+Paul Villanueva. (2018). 
 calc_wirt. 
 https://github.com/pommevilla/calc_wirt.  
 
 <a id="2">[2]</a> 
-Natheniel Morrison. 
+Natheniel Morrison (2022). 
 wirt_hm. 
 https://github.com/ThisSentenceIsALie/Wirt_Hm.  
