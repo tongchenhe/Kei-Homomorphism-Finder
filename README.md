@@ -11,6 +11,6 @@ calc_wirt.
 https://github.com/pommevilla/calc_wirt.  
 
 <a id="2">[2]</a> 
-Natheniel Morrison (2022). 
+Nathaniel Morrison (2022). 
 wirt_hm. 
 https://github.com/ThisSentenceIsALie/Wirt_Hm.  
