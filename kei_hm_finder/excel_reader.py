@@ -46,7 +46,7 @@ def kei_processor(raw_kei):
     order = int(len(result) ** 0.5)
     kei = [[]for i in range(order)]
     for i in range(len(result)):
-        kei[i//order].append(int(result[i]) - 1)
+        kei[i//order].append(int(result[i]))
     return kei
 
 def kei_dict_creator(file_name):
